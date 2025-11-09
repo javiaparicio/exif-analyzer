@@ -40,7 +40,7 @@ Download from [ExifTool website](https://exiftool.org/) and add to PATH
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/exif-analyzer.git
+git clone https://github.com/javiaparicio/exif-analyzer.git
 cd exif-analyzer
 ```
 
@@ -208,7 +208,7 @@ Contributions, issues, and feature requests are welcome!
 ## Author
 
 **Javi Aparicio**
-- Website: [javiapariciofoto.ch](javiapariciofoto.ch)
+- Website: [javiapariciofoto.ch](https://javiapariciofoto.ch)
 
 ## Acknowledgments
 
